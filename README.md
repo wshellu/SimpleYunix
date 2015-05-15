@@ -60,7 +60,7 @@ SimpleYunix
         rm -f ../../kernel/rootfs/linuxrc
 
 
- ## Build Kernel
+## Build Kernel
 
 ### Download
 
