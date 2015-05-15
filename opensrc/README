@@ -1,0 +1,6 @@
+
+
+busybox:
+    cd busybox
+    make 
+    make install CONFIG_PREFIX=../rootfs
