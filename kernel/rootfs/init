@@ -1,0 +1,12 @@
+#!/bin/sh
+
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin
+
+echo "SimpleYunix Startup: Userspace"
+
+#mount none /proc -t proc
+#mount -t sysfs none /sys
+
+/bin/sh
+
+
