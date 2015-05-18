@@ -2,7 +2,7 @@
 
 export PATH=/bin:/sbin:/usr/bin:/usr/sbin
 
-echo "SimpleYunix Startup: Userspace"
+echo "SimpleYunix Startup ..."
 
 #mount none /proc -t proc
 #mount -t sysfs none /sys

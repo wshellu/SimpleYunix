@@ -121,8 +121,8 @@ void FAST_FUNC bb_show_usage(void)
 			while (*p++) continue;
 			ap--;
 		}
-		full_write2_str(bb_banner);
-		full_write2_str(" multi-call binary.\n");
+		//full_write2_str(bb_banner);
+		//full_write2_str(" multi-call binary.\n");
 		if (*p == '\b')
 			full_write2_str("\nNo help available.\n\n");
 		else {
